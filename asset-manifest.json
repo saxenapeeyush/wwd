@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cca69b36.chunk.css",
+    "main.js": "/static/js/main.cd411afa.chunk.js",
+    "main.js.map": "/static/js/main.cd411afa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a67f0e89.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a67f0e89.js.map",
+    "static/js/2.09337d36.chunk.js": "/static/js/2.09337d36.chunk.js",
+    "static/js/2.09337d36.chunk.js.map": "/static/js/2.09337d36.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cca69b36.chunk.css.map": "/static/css/main.cca69b36.chunk.css.map",
+    "static/js/2.09337d36.chunk.js.LICENSE.txt": "/static/js/2.09337d36.chunk.js.LICENSE.txt",
+    "static/media/naruto.304d46c6.png": "/static/media/naruto.304d46c6.png",
+    "static/media/sasuke.e001d4a0.jpg": "/static/media/sasuke.e001d4a0.jpg",
+    "static/media/Login.css": "/static/media/tic-tac-toe.71da7b8f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a67f0e89.js",
+    "static/js/2.09337d36.chunk.js",
+    "static/css/main.cca69b36.chunk.css",
+    "static/js/main.cd411afa.chunk.js"
+  ]
+}
